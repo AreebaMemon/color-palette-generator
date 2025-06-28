@@ -12,18 +12,10 @@ A beautiful, responsive color palette generator built with React and TypeScript.
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-username.github.io/color-palette-generator)
+[View Live Demo](https://celebrated-kelpie-bcfd08.netlify.app/)
 
 ## 🛠️ Technologies Used
 
 - React 18
 - TypeScript
 - Tailwind CSS
-- Vite
-- Lucide React Icons
-
-## 📦 Installation
-
-```bash
-npm install
-npm run dev
